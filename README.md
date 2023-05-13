@@ -1,4 +1,4 @@
-# hangman
+# Hangman
 Building a Hangman Game where the computer generates random words for a player to guess. 
 
 
